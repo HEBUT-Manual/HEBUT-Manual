@@ -9,6 +9,7 @@
 
 ## Hebuters说
 * [人工智能与数据科学学院](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan\content.md)
+* [欢迎来到上海交通大学](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan\content.md)
 * [人文与法律学院](人文与法律学院\目录.md)
 * [化工学院](化工学院\目录.md)
 * [国际教育学院](国际教育学院\目录.md)
