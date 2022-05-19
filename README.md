@@ -1,7 +1,5 @@
+# README!
 
+经历过高考，有幸共聚于此成为Hebuters，但如何更有意义地度过大学时光？又如何计划自己的未来？每个人都将在大学生活中，逐渐找到属于自己的一份答案，但若有Hebuters前辈们分享走过的经历，也许我们能够少走一些弯路，度过更加充实、更有意义的大学时光。
 
-# Welcome!
-
-## Welcome aboard!
-
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+诚然，网上有很多的经验文章供参考，也有《上海交通大学生存手册》《SEU 生存指南》等较为全面的指南，但很多并不符合我们Hebuters的实际情况，因此，一本《HEBUT手册》是值得期待的。
