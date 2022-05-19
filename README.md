@@ -1,7 +1,4 @@
----
-cover: .gitbook/assets/hebut1.png
-coverY: 0
----
+
 
 # Welcome!
 
