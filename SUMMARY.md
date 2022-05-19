@@ -1,24 +1,32 @@
-# Table of contents
+# 目录
 
-* [Welcome!](README.md)
+* [README](README.md)
 
 ## 序
-* [声明](xu\sheng-ming.md)
-* [序言](xu\xu-yan.md)
-* [相关推荐](xu\xiang-guan-tui-jian.md)
+* [声明](序\声明.md)
+* [序言](序\序言.md)
+* [相关推荐](序\相关推荐.md)
 
-## 人工智能与数据科学学院
-* [19级 计算机科学与技术 刘鹏](人工智能与数据科学学院\19级-计算机科学与技术-刘鹏.md)
-* [19级 计算机科学与技术 test1](人工智能与数据科学学院\19级-计算机科学与技术 11.md)
-* [19级 计算机科学与技术 test2](人工智能与数据科学学院\19级 计算机科学与技术.md)
-* [19级 物联网工程 添砖加瓦](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan\19-ji-wu-lian-wang-gong-cheng-tian-zhuan-jia-wa.md)
+## Hebuters说
+* [人工智能与数据科学学院](人工智能与数据科学学院\目录.md)
+* [人文与法律学院](人文与法律学院\目录.md)
+* [化工学院](化工学院\目录.md)
+* [国际教育学院](国际教育学院\目录.md)
+* [亚利桑那工业学院](亚利桑那工业学院\目录.md)
+* [土木与交通学院](土木与交通学院\目录.md)
+* [外国语学院](外国语学院\目录.md)
+* [建筑与艺术设计学院](建筑与艺术设计学院\目录.md)
+* [机械工程学院](机械工程学院\目录.md)
+* [材料工程学院](材料工程学院\目录.md)
+* [理学院](理学院\目录.md)
+* [生命科学与健康工程学院](生命科学与健康工程学院\目录.md)
+* [电子信息工程学院](电子信息工程学院\目录.md)
+* [电气工程学院](电气工程学院\目录.md)
+* [经济管理学院](经济管理学院\目录.md)
+* [能源与环境工程学院](能源与环境工程学院\目录.md)
+* [马克思主义学院](马克思主义学院\目录.md)
 
-## The Company
-
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+## 其他
+* [一些信息](其他\一些信息.md)
+* [一些群](其他\一些群.md)
+* [关于本手册](其他\关于本手册.md)
