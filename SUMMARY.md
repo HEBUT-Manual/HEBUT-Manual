@@ -8,7 +8,7 @@
 * [相关推荐](xu\xiang-guan-tui-jian.md)
 
 ## 人工智能与数据科学学院
-* [19级 计算机科学与技术 抛砖引玉1](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan\19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu-1.md)
+* [19级 计算机科学与技术 刘鹏](人工智能与数据科学学院\19级 计算机科学与技术 刘鹏.md)
 * [19级 物联网工程 添砖加瓦](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan\19-ji-wu-lian-wang-gong-cheng-tian-zhuan-jia-wa.md)
 
 ## The Company
