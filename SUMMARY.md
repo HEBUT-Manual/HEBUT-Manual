@@ -12,7 +12,7 @@
 * [人工智能与数据科学学院](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
 * [人文与法律学院](ren-wen-yu-fa-lv-xue-yuan/README.md)
-* [化工学院](hua-gong-xue-yuan/README.mdd)
+* [化工学院](hua-gong-xue-yuan/README.md)
 * [国际教育学院](guo-ji-jiao-yu-xue-yuan/README.md)
 * [亚利桑那工业学院](ya-li-sang-na-gong-ye-xue-yuan/README.md)
 * [土木与交通学院](tu-mu-yu-jiao-tong-xue-yuan/README.md)
