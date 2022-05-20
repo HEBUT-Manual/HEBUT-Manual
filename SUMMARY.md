@@ -25,7 +25,7 @@
 * [能源与环境工程学院](neng-yuan-yu-huan-jing-gong-cheng-xue-yuan/README.md)
 * [马克思主义学院](ma-ke-si-zhu-yi-xue-yuan/README.md)
 
-## 其他
+## 附录
 * [一些信息](fu-lu/yi-xie-xin-xi.md)
 * [一些QQ群](fu-lu/yi-xie-qq-qun.md)
 
