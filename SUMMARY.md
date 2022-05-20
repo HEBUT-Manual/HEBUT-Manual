@@ -3,9 +3,9 @@
 * [致谢](README.md)
 
 ## 序
-* [声明](序/声明.md)
-* [序言](序/序言.md)
-* [相关推荐](序/相关推荐.md)
+* [声明](xu/sheng-ming.md)
+* [序言](xu/xu-yan.md)
+* [相关推荐](xu/xiang-guan-tui-jian.md)
 
 ## Hebuters说
 
