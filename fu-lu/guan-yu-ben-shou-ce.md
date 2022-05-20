@@ -3,7 +3,7 @@
 
 # GitHub
 
-https://github.com/HEBUT-Manual/HEBUT-Manual
+[GitHub Repository](https://github.com/HEBUT-Manual/HEBUT-Manual)
 
 # 如何贡献
 
