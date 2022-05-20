@@ -11,7 +11,7 @@
 # 如何贡献？
 《HEBUT手册》欢迎**所有的Hebuters**分享你们的故事。
 
-1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Markdown`文件发送到**hebutmanual@gmail.com** 或者加入[《HEBUT手册》QQ群：](点击链接加入群聊【HEBUT手册】：ERR) **946285429** 并联系管理员，我们会帮助你上架。
+1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Markdown`文件发送到hebutmanual@gmail.com 或者加入[《HEBUT手册》QQ群：](点击链接加入群聊【HEBUT手册】：ERR) 946285429 并联系管理员，我们会帮助你上架。
 2. 对于熟悉Git操作的同学：请对 [GitHub Repository：](https://github.com/HEBUT-Manual/HEBUT-Manual)仓库下的对应文件夹Pull Request，可参考 [**《如何进行贡献》**](gong-xian/ru-he-jin-xing-jing-yan-gong-xian.md)，Merge后便即时上线。
 3. 如需更新内容，请及时联系我们！
 
