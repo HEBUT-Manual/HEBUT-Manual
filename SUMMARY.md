@@ -2,11 +2,12 @@
 
 * [致谢](README.md)
 
+## 序
 * [声明](xu/sheng-ming.md)
 * [序言](xu/xu-yan.md)
 * [相关推荐](xu/xiang-guan-tui-jian.md)
 
-# Hebuters说
+## Hebuters说
 
 * [人工智能与数据科学学院](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
@@ -27,7 +28,7 @@
 * [能源与环境工程学院](neng-yuan-yu-huan-jing-gong-cheng-xue-yuan/README.md)
 * [马克思主义学院](ma-ke-si-zhu-yi-xue-yuan/README.md)
 
-# 其他
+## 其他
 * [一些信息](fu-lu/yi-xie-xin-xi.md)
 * [一些QQ群](fu-lu/yi-xie-qq-qun.md)
 * [关于本手册](fu-lu/guan-yu-ben-shou-ce.md)
