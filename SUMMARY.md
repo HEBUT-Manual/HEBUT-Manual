@@ -1,6 +1,6 @@
 # 目录
 
-* [HEBUT手册](README.md)
+* [致谢](README.md)
 
 ## 序
 * [声明](序/声明.md)
