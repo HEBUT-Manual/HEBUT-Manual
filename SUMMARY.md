@@ -1,11 +1,8 @@
 # 目录
 
-* [致谢](README.md)
+* [HEBUT手册](README.md)
+* [序言](xu-yan.md)
 
-## 序
-* [声明](xu/sheng-ming.md)
-* [序言](xu/xu-yan.md)
-* [相关推荐](xu/xiang-guan-tui-jian.md)
 
 ## Hebuters说
 
@@ -31,4 +28,4 @@
 ## 其他
 * [一些信息](fu-lu/yi-xie-xin-xi.md)
 * [一些QQ群](fu-lu/yi-xie-qq-qun.md)
-* [关于本手册](fu-lu/guan-yu-ben-shou-ce.md)
+
