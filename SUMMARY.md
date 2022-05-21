@@ -7,11 +7,13 @@
 ## Hebuters说
 
 * [人工智能与数据科学学院](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
-  ### 考研
-   * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
-  ### 保研
+  * 生活分享
+  * 考研
+    * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
+  * 保研
+  * 就业
+  * 出国
 
-  ### 就业
 * [人文与法律学院](ren-wen-yu-fa-lv-xue-yuan/README.md)
 * [化工学院](hua-gong-xue-yuan/README.md)
 * [国际教育学院](guo-ji-jiao-yu-xue-yuan/README.md)
