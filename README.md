@@ -15,7 +15,7 @@
 2. 对于熟悉GitHub操作的同学：请对 [GitHub Repository：](https://github.com/HEBUT-Manual/HEBUT-Manual)仓库下的对应文件夹Pull Request，可参考附录[《如何使用GitHub进行贡献》](gong-xian/ru-he-jin-xing-jing-yan-gong-xian.md)，Merge后便即时上线。
 3. 如需更新内容，请及时联系我们！
 
-附模板百度云下载链接**待补充**，但更鼓励不使用模板。Just follow your heart!）
+附参考模板百度云下载链接**待补充**，但更鼓励不使用模板。Just follow your heart!）
 
 
 
