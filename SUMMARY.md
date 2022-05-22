@@ -15,6 +15,7 @@
     * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
     * [19级 计算机科学与技术 薛若森](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-xue-ruo-sen.md)
     * [19级 计算机科学与技术 不想透露姓名的帅哥](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-bu-xiang-tou-lu-xing-ming-de-shuai-ge.md)
+    * [关于大物实验、四六级等如何合理快速的抢到名额](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/guan-yu-da-wu-shi-yan-si-liu-ji-deng-ru-he-he-li-kuai-su-qiang-dao-ming-e.md)
 
 
 * [人文与法律学院](ren-wen-yu-fa-lv-xue-yuan/README.md)
