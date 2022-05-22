@@ -1,67 +1,35 @@
 ## 如何进行经验分享
 
 1. 如果已有`Github`账号可以跳过此步。打开[Github](https://github.com)，点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
-2. 登陆后进入[这个页面](https://github.com/HEBUT-Manual/HEBUT-Manual)，打开一个你希望分享专业的页面，如``人工智能与数据科学学院``，这篇文章将会一直以此为例进行说明。
+2. 登陆后进入[这个页面](https://github.com/HEBUT-Manual/HEBUT-Manual)，打开一个你希望分享专业的页面，如``ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan``，这篇文章将会一直以此为例进行说明。
 
-![Fig.1](../picture/xiao-hui.png)
+![Fig.1](../picture/001.png)
 
 1. 点击`Create new file`按钮。
 
-![Fig.3](src/img/003.png)
+![Fig.3](../picture/003.png)
 
 命名方式为：`入学年级-专业-姓名.md`。
-如：`19级-计算机科学与技术-刘鹏.md`。
+如：`19级-计算机科学与技术-张三.md`。
 
-![Fig.4](src/img/004.png)
+![Fig.4](../picture/004.png)
 
-将你想要分享的内容填写在下方。我们在此提供模板，同学们只需要改动其中的汉字部分即可，点击`Preview`按钮可以进行预览。
+将你想要分享的内容填写在下方。我们在此[提供模板](mo-ban.md)，同学们只需要改动其中的汉字部分即可，点击`Preview`按钮可以进行预览。
 
-```markdown
-# 19级-计算机科学与技术-张三
 
-## 基本背景
-
-> GPA：3.80/4 ;
-> 
-> Rank：；
-> 
-> 荣誉奖项：;
-
-## 申请结果
-
-最终录取学校：学校名称+项目名称
-
-其他录取结果：
-
-* **Offer\(0\):**
-  * \[学校名称+项目名称\] 若干
-* **AD\(0\):**
-  * \[学校名称+项目名称\] 若干
-* **Rej\(10\)**:
-  * \[学校名称+项目名称\] 若干
-
-## 申请心得
-
-若干。
-
-## 其他想对学弟学妹说的话
-
-若干。
-```
-
-![Fig.5](src/img/005.png)
+![Fig.5](../picture/005.png)
 
 4. 点击`Propose new file`按钮。
 
-![Fig.6](src/img/006.png)
+![Fig.6](../picture/006.png)
 
 5. 点击`Create pull request`按钮。
 
-![Fig.7](src/img/007.png)
+![Fig.7](../picture/007.png)
 
 6. 确保`Allow edits from maintainers`是被选中状态，点击`Create pull request`按钮。
 
-![Fig.8](src/img/008.png)
+![Fig.8](../picture/008.png)
 
 7.大功告成。
 
