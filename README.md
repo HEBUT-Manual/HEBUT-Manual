@@ -6,8 +6,9 @@
 1. 目前手册处于起步阶段，请有意向加入编委会的Hebuters联系编委会（加入QQ群联系管理员/邮箱）
 2. 支持**实名/匿名**投稿
 3. 编委会邮箱：hebutmanual@gmail.com
-4. [《HEBUT手册》QQ群：](点击链接加入群聊【HEBUT手册】：ERR) 946285429
+4. [《HEBUT手册》QQ群：](点击链接加入群聊【HEBUT手册】：https://jq.qq.com/?_wv=1027&k=rP98vlMt) 946285429
 5. [GitHub Repository：](https://github.com/HEBUT-Manual/HEBUT-Manual) https://github.com/HEBUT-Manual/HEBUT-Manual
+6. 附录中有老乡群、校友群信息待补充，欢迎大家补充分享。
 # 如何贡献？
 《HEBUT手册》欢迎**所有的Hebuters**分享你们的故事。
 
