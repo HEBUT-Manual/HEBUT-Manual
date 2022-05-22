@@ -3,33 +3,33 @@
 1. 如果已有`Github`账号可以跳过此步。打开[Github](https://github.com)，点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
 2. 登陆后进入[这个页面](https://github.com/HEBUT-Manual/HEBUT-Manual)，打开一个你希望分享专业的页面，如``ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan``，这篇文章将会一直以此为例进行说明。
 
-[Fig.1](../picture/001.png)
+![Fig.1](../picture/001.png)
 
 3. 点击`Create new file`按钮。
 
-[Fig.3](../picture/003.png)
+![Fig.3](../picture/003.png)
 
 命名方式为：`入学年级-专业-姓名.md`。
 如：`19级-计算机科学与技术-张三.md`。
 
-[Fig.4](../picture/004.png)
+![Fig.4](../picture/004.png)
 
 将你想要分享的内容填写在下方。我们[在此提供模板](https://pan.baidu.com/s/107JSqrSSgJ4_omJGfG9GDA?pwd=hbgd)。同学们可以在模板基础上改动，点击`Preview`按钮可以进行预览。
 
 
-[Fig.5](../picture/005.png)
+![Fig.5](../picture/005.png)
 
 4. 点击`Propose new file`按钮。
 
-[Fig.6](../picture/006.png)
+![Fig.6](../picture/006.png)
 
 5. 点击`Create pull request`按钮。
 
-[Fig.7](../picture/007.png)
+![Fig.7](../picture/007.png)
 
 6. 确保`Allow edits from maintainers`是被选中状态，点击`Create pull request`按钮。
 
-[Fig.8](../picture/008.png)
+![Fig.8](../picture/008.png)
 
 7. 大功告成。
 
