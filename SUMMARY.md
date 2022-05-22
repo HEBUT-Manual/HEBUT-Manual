@@ -13,6 +13,7 @@
   * 出国
   * 生活分享
     * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
+    * [19级 计算机科学与技术 薛若森](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-xue-ruo-sen.md)
 
 
 * [人文与法律学院](ren-wen-yu-fa-lv-xue-yuan/README.md)
@@ -132,6 +133,6 @@
 ## 附录
 * [一些信息](fu-lu/yi-xie-xin-xi.md)
 * [一些QQ群](fu-lu/yi-xie-qq-qun.md)
-* [如何使用GitHub进行贡献](gong-xian/ru-he-jin-xing-jing-yan-gong-xian.md)
+* [如何使用GitHub进行贡献](fu-lu/ru-he-jin-xing-jing-yan-gong-xian.md)
 
 

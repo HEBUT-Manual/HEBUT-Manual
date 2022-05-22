@@ -14,7 +14,7 @@
 
 ![Fig.4](../picture/004.png)
 
-将你想要分享的内容填写在下方。我们在此[提供模板](mo-ban.md)，同学们只需要改动其中的汉字部分即可，点击`Preview`按钮可以进行预览。
+将你想要分享的内容填写在下方。我们[在此提供模板](https://pan.baidu.com/s/107JSqrSSgJ4_omJGfG9GDA?pwd=hbgd)。同学们可以在模板基础上改动，点击`Preview`按钮可以进行预览。
 
 
 ![Fig.5](../picture/005.png)
