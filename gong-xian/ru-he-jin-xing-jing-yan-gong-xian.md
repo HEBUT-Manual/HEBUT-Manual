@@ -3,7 +3,7 @@
 1. 如果已有`Github`账号可以跳过此步。打开[Github](https://github.com)，点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
 2. 登陆后进入[这个页面](https://github.com/HEBUT-Manual/HEBUT-Manual)，打开一个你希望分享专业的页面，如``人工智能与数据科学学院``，这篇文章将会一直以此为例进行说明。
 
-![Fig.1](picture/xiao-hui.png)
+![Fig.1](../picture/xiao-hui.png)
 
 1. 点击`Create new file`按钮。
 
