@@ -200,7 +200,7 @@
 
 # HEBUT手册
 
-[《HEBUT手册》QQ群：](点击链接加入群聊【HEBUT手册】：ERR) 946285429
+[《HEBUT手册》QQ群：](https://jq.qq.com/?_wv=1027&k=rP98vlMt) 946285429
 
 
 
