@@ -14,12 +14,12 @@
 
 ![Fig.4](../picture/004.png)
 
-将你想要分享的内容填写在下方。我们在此[提供模板（百度云），](链接：https://pan.baidu.com/s/107JSqrSSgJ4_omJGfG9GDA?pwd=hbgd)提取码：hbgd。同学们可以在模板基础上改动，点击`Preview`按钮可以进行预览。
+将你想要分享的内容填写在下方。我们在此[提供模板（百度云）](链接：https://pan.baidu.com/s/107JSqrSSgJ4_omJGfG9GDA?pwd=hbgd)。同学们可以在模板基础上改动，点击`Preview`按钮可以进行预览。
 
 
 ![Fig.5](../picture/005.png)
 
-4. 点击`Propose new file`按钮。
+1. 点击`Propose new file`按钮。
 
 ![Fig.6](../picture/006.png)
 
