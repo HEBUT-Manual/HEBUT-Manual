@@ -19,7 +19,7 @@
 
 ![Fig.5](../picture/005.png)
 
-1. 点击`Propose new file`按钮。
+4. 点击`Propose new file`按钮。
 
 ![Fig.6](../picture/006.png)
 
