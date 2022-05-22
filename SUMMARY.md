@@ -133,6 +133,6 @@
 ## 附录
 * [一些信息](fu-lu/yi-xie-xin-xi.md)
 * [一些QQ群](fu-lu/yi-xie-qq-qun.md)
-* [如何使用GitHub进行贡献](gong-xian/ru-he-jin-xing-jing-yan-gong-xian.md)
+* [如何使用GitHub进行贡献](fu-lu/ru-he-jin-xing-jing-yan-gong-xian.md)
 
 
