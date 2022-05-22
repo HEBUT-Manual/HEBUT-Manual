@@ -19,15 +19,15 @@
 
 ![Fig.5](../picture/005.png)
 
-4、 点击`Propose new file`按钮。
+4、 t点击`Propose new file`按钮。
 
 ![Fig.6](../picture/006.png)
 
-5、 点击`Create pull request`按钮。
+5、  点击`Create pull request`按钮。
 
 ![Fig.7](../picture/007.png)
 
-6、 确保`Allow edits from maintainers`是被选中状态，点击`Create pull request`按钮。
+6、 t 确保`Allow edits from maintainers`是被选中状态，点击`Create pull request`按钮。
 
 ![Fig.8](../picture/008.png)
 
