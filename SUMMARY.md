@@ -4,7 +4,7 @@
 * [序言](xu-yan.md)
 
 
-## Hebuters说 (5)
+## Hebuters说 (6)
 
 * [人工智能与数据科学学院 (6)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * 保研
