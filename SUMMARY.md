@@ -6,12 +6,12 @@
 
 ## Hebuters说 (5)
 
-* [人工智能与数据科学学院 (5)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
+* [人工智能与数据科学学院 (6)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * 保研
   * 考研
   * 就业
   * 出国
-  * 生活分享 (5)
+  * 生活分享 (6)
     * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
     * [19级 计算机科学与技术 薛若森](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-xue-ruo-sen.md)
     * [19级 计算机科学与技术 不想透露姓名的帅哥](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-bu-xiang-tou-lu-xing-ming-de-shuai-ge.md)
