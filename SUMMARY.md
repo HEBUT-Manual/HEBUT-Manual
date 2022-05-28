@@ -19,6 +19,7 @@
     * [19级 计算机科学与技术 魏轩](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-wei-xuan.md)
     * [19级 匿名](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-wu-lian-wang-gong-cheng-bing.md)
     * [19级 软件 strWarrior](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ruan-jian-strWarrior.md)
+    * [19级 物联网工程 梁恪瑜](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-wu-lian-wang-gong-cheng-liangkey.md)
 
 
 * [人文与法律学院](ren-wen-yu-fa-lv-xue-yuan/README.md)
