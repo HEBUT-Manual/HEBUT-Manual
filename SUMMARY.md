@@ -9,7 +9,8 @@
 * [人工智能与数据科学学院 (10)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * 保研
   * 考研 (1)
-    * [18级 计算机类 马明明](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-ma-ming-ming.md)
+    * [18级 计算机科学与技术 马明明](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-ma-ming-ming.md)
+    * [18级 计算机科学与技术 赵华众](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/18-ji-ji-suan-ji-ke-xue-yu-ji-shu-zhao-hua-zhong.md)
   * 就业
   * 出国
   * 生活分享 (9)
@@ -21,7 +22,7 @@
     * [19级 匿名](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-wu-lian-wang-gong-cheng-bing.md)
     * [19级 软件 strWarrior](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ruan-jian-strWarrior.md)
     * [19级 物联网工程 梁恪瑜](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-wu-lian-wang-gong-cheng-liangkey.md)
-    * [18级 计算机类 马明明](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-ma-ming-ming1.md)
+    * [18级 计算机科学与技术 马明明](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-ma-ming-ming1.md)
 
 
 * [人文与法律学院](ren-wen-yu-fa-lv-xue-yuan/README.md)

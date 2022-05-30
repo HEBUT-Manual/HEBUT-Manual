@@ -25,7 +25,7 @@
    
 
 
-![enter description here](http://img.zzhc321.xyz/blog/1653911934004.png)
+![enter description here](../picture/zhaohuazhong/1.png)
 &emsp;&emsp; 我是计算机18级11班的赵华众<i class="fas fa-smile"></i>，考研目标院校是东南大学。我的初试成绩387，其中政治71、英语一77、数学二126、专业课(906)113。
 
 &emsp;&emsp; 在出初试成绩那会，我以为387的分数哪怕复试摆烂也能稳，但是后来出复试线后才知道东大统考缩招三分之一的同时还提高复录比到1.5:1<i class="far fa-sad-cry"></i>。这意味着招生名额减少的同时进复试的同学每三个里就有一个要被淘汰，那一阵确实是有点慌了，深深的为自己的摆烂行为感到后悔<i class="far fa-frown"></i>。不过所幸得益于我的本科阶段项目经历，我得复试成绩还算不错，最终也顺利被拟录取。
@@ -43,7 +43,7 @@
 
 ### 2.1 关键时间点
 
-![enter description here](http://img.zzhc321.xyz/blog/1653912775514.png)
+![enter description here](../picture/zhaohuazhong/2.png)
 
 
 #### 关于考研你需要关注以下几个关键时间点（以22考研为例）：
@@ -73,7 +73,7 @@
 
 
 ### 2.2 关于择校
-![enter description here](http://img.zzhc321.xyz/blog/1653913107249.png)
+![enter description here](../picture/zhaohuazhong/3.png)
 
 &emsp;&emsp; 我的择校原因很简单：1.我是江苏人，我想在江苏读研；2.我要考985。所以选择了江苏唯二的985东南大学。但是我希望你不要像我一样“鲁莽”，你至少需要关注以下几个方面：
 
@@ -119,4 +119,4 @@
 
 &emsp;&emsp; 即将毕业，马上就要离开工大。希望学弟学妹们珍惜眼前时光，最后也祝学弟学妹们学业顺利、成功上岸！<i class="far fa-smile-wink"></i>
 
-![enter description here](http://img.zzhc321.xyz/blog/1653915018883.png)
+![enter description here](../picture/zhaohuazhong/4.png)
