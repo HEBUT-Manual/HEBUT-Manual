@@ -4,11 +4,11 @@
 * [序言](xu-yan.md)
 
 
-## Hebuters说 (10)
+## Hebuters说 (11)
 
-* [人工智能与数据科学学院 (10)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
+* [人工智能与数据科学学院 (11)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * 保研
-  * 考研 (1)
+  * 考研 (2)
     * [18级 计算机科学与技术 马明明](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-ma-ming-ming.md)
     * [18级 计算机科学与技术 赵华众](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/18-ji-ji-suan-ji-ke-xue-yu-ji-shu-zhao-hua-zhong.md)
   * 就业
