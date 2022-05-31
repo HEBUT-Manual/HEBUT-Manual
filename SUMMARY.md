@@ -14,6 +14,7 @@
   * 就业
   * 出国
   * 生活分享 (9)
+    * [18级 计算机科学与技术 马明明](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-ma-ming-ming1.md)
     * [19级 计算机科学与技术 抛砖引玉](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-pao-zhuan-yin-yu.md)
     * [19级 计算机科学与技术 薛若森](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-xue-ruo-sen.md)
     * [19级 计算机科学与技术 不想透露姓名的帅哥](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-suan-ji-ke-xue-yu-ji-shu-bu-xiang-tou-lu-xing-ming-de-shuai-ge.md)
@@ -22,7 +23,6 @@
     * [19级 匿名](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-wu-lian-wang-gong-cheng-bing.md)
     * [19级 软件 strWarrior](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ruan-jian-strWarrior.md)
     * [19级 物联网工程 梁恪瑜](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-wu-lian-wang-gong-cheng-liangkey.md)
-    * [18级 计算机科学与技术 马明明](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/19-ji-ji-ma-ming-ming1.md)
 
 
 * [人文与法律学院](ren-wen-yu-fa-lv-xue-yuan/README.md)
