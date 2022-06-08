@@ -9,7 +9,7 @@
 4. [《HEBUT手册》QQ群：](https://jq.qq.com/?_wv=1027&k=rP98vlMt) 946285429
 5. [GitHub Repository：](https://github.com/HEBUT-Manual/HEBUT-Manual) https://github.com/HEBUT-Manual/HEBUT-Manual
 6. 附录中有老乡群、校友群信息待补充，欢迎大家补充分享。
-# 如何贡献？
+# 如何分享？
 《HEBUT手册》欢迎**所有的Hebuters**分享你们的故事。
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Markdown`文件发送到hebutmanual@gmail.com 或者加入[《HEBUT手册》QQ群：](https://jq.qq.com/?_wv=1027&k=rP98vlMt) 946285429 并联系管理员，我们会帮助你上架。
