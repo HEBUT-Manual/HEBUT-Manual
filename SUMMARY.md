@@ -4,7 +4,7 @@
 * [序言](xu-yan.md)
 
 
-## Hebuters说 (13)
+## Hebuters说 (14)
 
 * [人工智能与数据科学学院 (13)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * 保研
@@ -93,13 +93,13 @@
   * 生活分享
 
 
-* [理学院](li-xue-yuan/README.md)
+* [理学院 (1)](li-xue-yuan/README.md)
   * 保研
   * 考研
   * 就业
   * 出国
-  * 生活分享
-
+  * 生活分享 (1)
+    * [19级 数学 infty](li-xue-yuan/infty.md)
 * [生命科学与健康工程学院](sheng-ming-ke-xue-yu-jian-kang-gong-cheng-xue-yuan/README.md)
   * 保研
   * 考研
