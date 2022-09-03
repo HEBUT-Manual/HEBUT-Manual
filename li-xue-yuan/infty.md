@@ -12,18 +12,18 @@
 
 在此提供一些我自己整理的笔记,笔记分为两种,一种是自己在学习过程中写的,一种是在期末考试之前写来应付考试的,后者需要慎重,由于是根据老师的期末重点写的,每年重点可能不太一样.__对于所有的笔记,由于没有校正过,笔记内容未必都是全对的,仅供参考__
 
-1. [抽象代数笔记](li-xue-yuan/Infty/Abstract_algebra_review.pdf)
-[抽象代数期末应急](li-xue-yuan/Infty/Abstract_algebra_review.pdf)
+1. [抽象代数笔记](Infty/Abstract_algebra_review.pdf)
+[抽象代数期末应急](Infty/Abstract_algebra_review.pdf)
 
-2. [泛函分析笔记](li-xue-yuan/Infty/functional_analysis.pdf) [泛函分析期末应急](li-xue-yuan/Infty/functional_analysis_review.pdf)
+1. [泛函分析笔记](Infty/functional_analysis.pdf) [泛函分析期末应急](Infty/functional_analysis_review.pdf)
 
-3. [数值分析期末应急](li-xue-yuan/Infty/numbercial_analysis.pdf)
+2. [数值分析期末应急](Infty/numbercial_analysis.pdf)
 
-4. [拓扑学笔记](li-xue-yuan/Infty/topology.pdf)
+3. [拓扑学笔记](Infty/topology.pdf)
 
-5. [复变函数笔记](li-xue-yuan/Infty/complex_analysis.pdf)
+4. [复变函数笔记](Infty/complex_analysis.pdf)
 
-6. [实变函数笔记](li-xue-yuan/Infty/real_analysis.pdf)
+5. [实变函数笔记](Infty/real_analysis.pdf)
 
 可惜的是,基础专业课的笔记还没有校对完成,估计以后会补上的.
 
