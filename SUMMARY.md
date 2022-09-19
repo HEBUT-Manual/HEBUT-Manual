@@ -4,7 +4,7 @@
 * [序言](xu-yan.md)
 
 
-## Hebuters说 (14)
+## Hebuters说 (15)
 
 * [人工智能与数据科学学院 (13)](ren-gong-zhi-neng-yu-shu-ju-ke-xue-xue-yuan/README.md)
   * 保研
@@ -43,12 +43,13 @@
   * 生活分享
 
 
-* [国际教育学院](guo-ji-jiao-yu-xue-yuan/README.md)
+* [国际教育学院(1)](guo-ji-jiao-yu-xue-yuan/README.md)
   * 保研
   * 考研
   * 就业
   * 出国
   * 生活分享
+   * [简单留言](guo-ji-jiao-yu-xue-yuan/jian-dan-liu-yan.md)
 
 * [亚利桑那工业学院](ya-li-sang-na-gong-ye-xue-yuan/README.md)
   * 保研
