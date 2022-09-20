@@ -49,7 +49,7 @@
   * 就业
   * 出国
   * 生活分享
-   * [简单留言](guo-ji-jiao-yu-xue-yuan/jian-dan-liu-yan.md)
+    * [简单留言](guo-ji-jiao-yu-xue-yuan/jian-dan-liu-yan.md)
 
 * [亚利桑那工业学院](ya-li-sang-na-gong-ye-xue-yuan/README.md)
   * 保研
